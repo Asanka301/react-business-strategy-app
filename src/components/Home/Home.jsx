@@ -1,18 +1,18 @@
 import React from "react";
 import "./Home.css";
 import BannerImage from "../../assets/banner/banner4.jpg";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import {
-  faChartLine,
-  faShieldHalved,
-  faChartArea,
-} from "@fortawesome/free-solid-svg-icons";
+// import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+// import {
+//   faChartLine,
+//   faShieldHalved,
+//   faChartArea,
+// } from "@fortawesome/free-solid-svg-icons";
 
 export default function Home() {
   // Icons
-  const faChartIcon = <FontAwesomeIcon icon={faChartLine} />;
-  const faShieldIcon = <FontAwesomeIcon icon={faShieldHalved} />;
-  const faChartAreaIcon = <FontAwesomeIcon icon={faChartArea} />;
+  //   const faChartIcon = <FontAwesomeIcon icon={faChartLine} />;
+  //   const faShieldIcon = <FontAwesomeIcon icon={faShieldHalved} />;
+  //   const faChartAreaIcon = <FontAwesomeIcon icon={faChartArea} />;
 
   return (
     <>
